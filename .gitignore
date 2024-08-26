@@ -5,7 +5,7 @@
 *src**
 *.out**
 *.pkl**
-*.txt**
+#*.txt**
 *.json**
 *.csv**
 *.npy**
